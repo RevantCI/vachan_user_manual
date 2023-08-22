@@ -1,0 +1,91 @@
+{
+  "vachan": [
+    {
+      "type": "doc",
+      "label": "Introduction",
+      "id": "p0-01-intro"
+    },
+    {
+      "type": "doc",
+      "label": "Website Navigation",
+      "id": "p0-02-websitenavigation"
+    },
+    {
+      "type": "doc",
+      "label": "Study Bible Page",
+      "id": "p0-03-studybiblepage"
+    },
+    {
+      "type": "doc",
+      "label": "Bible",
+      "id": "p1-01-bible"
+    },
+    {
+      "type": "doc",
+      "label": "Sign Language Bible",
+      "id": "p1-02-signlanguagebible"
+    },
+    {
+      "type": "doc",
+      "label": "Songs",
+      "id": "p1-03-songs"
+    },
+    {
+      "type": "doc",
+      "label": "Bible Stories",
+      "id": "p1-04-biblestories"
+    },
+    {
+      "type": "doc",
+      "label": "Commentaries",
+      "id": "p1-05-commentaries"
+    },
+    {
+      "type": "doc",
+      "label": "Infographics",
+      "id": "p1-06-infographics"
+    },
+    {
+      "type": "doc",
+      "label": "Audio Bible",
+      "id": "p1-07-audiobible"
+    },
+    {
+      "type": "doc",
+      "label": "Videos",
+      "id": "p1-08-videos"
+    },
+    {
+      "type": "doc",
+      "label": "Reading Plans",
+      "id": "p1-09-readingplans"
+    },
+    {
+      "type": "doc",
+      "label": "Dictionaries",
+      "id": "p1-10-dictionaries"
+    },
+    {
+      "type": "category",
+      "label": "User Login Features ",
+      "items": [
+        "User Login Features/p2-01-signup",
+        "User Login Features/p2-02-signin",
+        "User Login Features/p2-03-Bookmarks",
+        "User Login Features/p2-04-highlights",
+        "User Login Features/p2-05-notes",
+        "User Login Features/p2-06-signout"
+      ]
+    },
+    {
+      "type": "doc",
+      "label": "Feedback",
+      "id": "p3-01-feedback"
+    },
+    {
+      "type": "doc",
+      "label": "Contact Us",
+      "id": "p3-02-contactus"
+    }
+  ]
+}
