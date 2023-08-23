@@ -6,44 +6,43 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Vachan-docs',
-  tagline: 'Documentation for VachanOnline',
-  favicon: 'img/favicon-192.png',
+  title: "Vachan-Online-docs",
+  tagline: "User Manual for VachanOnline",
+  favicon: "img/favicon-192.png",
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: "https://vachanonline.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
-
+  baseUrl: "/",
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Bridgeconn', // Usually your GitHub org/user name.
-  projectName: 'VachanOnline-v2', // Usually your repo name.
+  organizationName: "Bridgeconn", // Usually your GitHub org/user name.
+  projectName: "VachanOnline-v2", // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-           routeBasePath: '/',
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          routeBasePath: "/",
+          // editUrl:
+          //   "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         // blog: {
         //   showReadingTime: true,
@@ -53,7 +52,7 @@ const config = {
         //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         // },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       }),
     ],
@@ -62,32 +61,31 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 
-    
     ({
       // Replace with your project's social card
       // image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'VachanOnline',
+        title: "VachanOnline",
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/favicon-192.png',
+          alt: "My Site Logo",
+          src: "img/favicon-192.png",
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'vachan',
-            position: 'left',
-            label: 'Docs',
+            type: "docSidebar",
+            sidebarId: "vachan",
+            position: "left",
+            label: "Docs",
           },
           {
-            type: 'docsVersionDropdown',
-            position: 'right',
+            type: "docsVersionDropdown",
+            position: "right",
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://github.com/Bridgeconn/VachanOnline-v2",
+            label: "GitHub",
+            position: "right",
           },
         ],
       },
