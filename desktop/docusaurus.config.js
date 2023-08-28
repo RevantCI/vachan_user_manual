@@ -1,8 +1,8 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -77,10 +77,10 @@ const config = {
             position: "left",
             label: "Docs",
           },
-          {
-            type: "docsVersionDropdown",
-            position: "right",
-          },
+          // {
+          //   type: "docsVersionDropdown",
+          //   position: "right",
+          // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: "https://github.com/Bridgeconn/VachanOnline-v2",
