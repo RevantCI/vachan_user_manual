@@ -1,17 +1,17 @@
-# Website
+# Desktop User Manual
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This user manual is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 
 ```
-$ yarn
+$ npm install
 ```
 
 ### Local Development
 
 ```
-$ yarn start
+$ npm start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
@@ -19,23 +19,19 @@ This command starts a local development server and opens up a browser window. Mo
 ### Build
 
 ```
-$ yarn build
+$ npm run build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
+To test the build run the following command
+
+```
+$ npm run serve
+```
+
 ### Deployment
 
-Using SSH:
+See the Docusaurus website for Deployment steps [Link](https://docusaurus.io/docs/deployment)
 
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+The Vachan Online Staging User Manual is deployed on Netlify. See the deployment steps here - [Link](https://docusaurus.io/docs/deployment#deploying-to-netlify)
