@@ -4,12 +4,19 @@ description: Sign In instructions
 
 # Sign In
 
-Users must 'Sign Up' before they can 'Sign In' to VachanOnline.com. ( [See how to Sign Up](./signUp) )
+The user can Sign In to VachanOnline in 2 ways as described below
 
-To **Sign In** to the website, the user must first click the **Sign In** button in the upper right corner. They may sign in by entering their Email address **(2)** and Password **(3)** and then click the Sign In **(4)** button.
+#### 1. Sign In with Email
 
-The user’s account will be created, and a confirmation email will be sent to the email address provided by the user.
+To **Sign In** to VachanOnline, the user must first click the 'Sign In' **(1)** button in the upper right corner.
+Enter their email address **(2)** and Password **(3)** and then click the 'Sign In' **(4)** button.
+
+**Note:-** Users must 'Sign Up' before they can 'Sign In' with Email to VachanOnline.com. ( [See how to Sign Up](./signUp) )
 
 <img src="/img/assets/signin.png"  width="500px" alt="signin"/>
 
-The users can also sign in with Google. This doesn’t require the user to fill in the sign-up form, the user can select their Google profile in the pop up that opens **(5)**.
+#### 2. Sign In with Google
+
+This doesn’t require the user to fill in the sign-up form.
+
+To Sign In with your existing Google account the user can click the button 'Sign in with Google' **(5)** and select their Google profile in the pop up that opens.

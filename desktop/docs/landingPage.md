@@ -4,32 +4,27 @@ description: Landing page navigation instructions
 
 # Landing Page
 
-On visiting the website **VachanOnline.com**, the browser will open up the landing page as shown below.
+On visiting the website **[VachanOnline.com](https://vachanonline.com/)**, the browser will open up the landing page as shown below.
 
 <img src="/img/assets/navigation.png"  width="1000px" alt="navigation"/>
 
-From here the user can access the following pages:
+From here the user can access the following Features:
 
-1. Study Bible page **(1)**
+1. [Study Bible](./studyBible) **(1, 6, 10)**
 
-2. Click to Read the Bible in desired language **(2)**
+2. [Read Bible](./readBible) **(2, 9)**
 
-3. Sign Language Bible **(3)**
+3. [Sign Language Bible](./signLanguageBible) **(3)**
 
-4. Songs **(4)**
+4. [Songs](./songs) **(4)**
 
-5. Bible Stories **(5)**
+5. [Bible Stories](./bibleStories) **(5)**
 
-6. Study the Bible **(6)**
+6. [Audio Bibles](./audioBible) **(7)**
 
-7. Listen to Audio Bibles **(7)**
+7. [Videos](./videos) **(8)**
 
-8. Watch Videos **(8)**
-
-9. Read the Bible **(9)**
-
-10. Study the Bible **(10)**
-
+At the bottom of the page in the footer also there are some links as described below
 <img src="/img/assets/bottombar.png"  width="1000px" alt="bottombar"/>
 
 **About Us**

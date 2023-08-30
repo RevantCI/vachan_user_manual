@@ -55,6 +55,7 @@ module.exports = {
         "studyBible",
         "readBible",
         "signLanguageBible",
+        "searchBible",
         "songs",
         "bibleStories",
         "commentaries",
