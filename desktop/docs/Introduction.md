@@ -19,13 +19,26 @@ A **Church Elder** or **Pastor** can use study tools such as study notes, commen
 
 **It includes access to a variety of features like:**
 
-1. Bibles
-2. Sign Language Bible
-3. Songs
-4. Bible Stories
-5. Commentaries
-6. Infographics
-7. Audio Bible
-8. Videos
-9. Reading Plan
-10. Dictionaries
+1. [Study Bible](./studyBible)
+
+2. [Read Bible](./readBible)
+
+3. [Sign Language Bible](./signLanguageBible)
+
+4. [Search Bible](./searchBible)
+
+5. [Songs](./songs)
+
+6. [Bible Stories](./bibleStories)
+
+7. [Commentaries](./commentaries)
+
+8. [Infographics](./infographics)
+
+9. [Audio Bible](./audioBible)
+
+10. [Videos](./videos)
+
+11. [Reading Plan](./readingPlans)
+
+12. [Dictionaries](./dictionaries)
